@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manqoba-SA
+- 👋 Hi, I’m Manqoba Nqobi
 - 👀 I’m interested in Backend Development, FrontEnd Development, and Machine Learning 
 - 🌱 I’m currently learning Java and Spring Framework
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/manqoba-ngubeni/)
