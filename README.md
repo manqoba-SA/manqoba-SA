@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manqoba Nqobi
 - 👀 I’m interested in Backend Development, FrontEnd Development, and Machine Learning 
 - 🌱 I’m currently learning Java and Spring Framework
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/manqoba-ngubeni/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manqoba-ngubeni/)
 
 <!---
 manqoba-SA/manqoba-SA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
